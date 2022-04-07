@@ -1,0 +1,7 @@
+Credit to wally from GitHub link of profile
+ https://github.com/wally-rblx
+
+
+
+Copy script under here:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua",true))()
